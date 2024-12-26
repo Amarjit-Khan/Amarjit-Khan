@@ -17,8 +17,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=amarjit-khan&theme=dracula&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Full Stack Development**
-- 🌱 I’m currently learning **Redux**
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 🌱 I’m currently learning **Machine Learning**
+- 👯 I’m looking to collaborate on **Backend Projects**
 - 🤝 I’m looking for help with **Web Dev Projects**
 - 👨‍💻 All of my projects are available at [https://amarjit-khan.github.io/Amarjit.github.io/](https://amarjit-khan.github.io/Amarjit.github.io/)
 - 💬 Ask me about **react, node, and mongoDB**
