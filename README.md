@@ -20,12 +20,12 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on **Backend Projects**
 - 🤝 I’m looking for help with **Web Dev Projects**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 🤔 I’m looking for help with Competitive Coding 🥹
 - 👨‍💻 All of my projects are available at [https://amarjit-khan.github.io/Amarjit.github.io/](https://amarjit-khan.github.io/Amarjit.github.io/)
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: Coder and Kind Hearted
 - 💡 Occasionaly I do participate in Hackathons
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn new things
 
 <h3 align="left">Languages and Tools:</h3>
