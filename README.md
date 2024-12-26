@@ -34,7 +34,7 @@
 <br>
 
 
-![Amarjit-Khan's Stats](https://github-readme-stats.vercel.app/api?username=Amarjit-Khan&theme=dracula&show_icons=true&hide_border=false&count_private=true)                          ![Amarjit-Khan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjit-Khan&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![Amarjit-Khan's Stats](https://github-readme-stats.vercel.app/api?username=Amarjit-Khan&theme=dracula&show_icons=true&hide_border=false&count_private=true)                          ![Amarjit-Khan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjit-Khan&theme=dracula&show_icons=true&hide_border=false&layout=compact)[![GitHub Streak](https://streak-stats.demolab.com?user=Amarjit-Khan&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
