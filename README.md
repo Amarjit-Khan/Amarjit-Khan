@@ -1,4 +1,4 @@
-<img src="pic1.gif" alt="code"/>
+<img src="pic1.gif" alt="hode" style="width: 100%;"/>
 <h1 align="center">Hi 👋, I'm Amarjit Khan</h1>
 <p align="center">
   <a href="https://www.youtube.com"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
